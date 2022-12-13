@@ -12,4 +12,4 @@
 - Take logo.png / radio.png and drop them into the html folder and replace the files!
 - Done!
 
-Made By Clause#6229 -Discord
+Converted / Made By Clause#6229 -Discord
