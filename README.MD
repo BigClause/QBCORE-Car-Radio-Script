@@ -5,7 +5,7 @@
 ### Download Xsound - [Xsound](https://github.com/Xogy/xsound)
 
 ### SETUP 
-- Download Diamond Car Radio Script [Github].
+- Download Diamond Car Radio Script [Github](https://github.com/BigClause/QBCore-Car-Radio-Script)
 - After downloaded place into a subfolder of your choice !
 - Download xsound - [Github](https://github.com/Xogy/xsound)
 - After downloaded place into a subfolder of your choice !
