@@ -1,6 +1,6 @@
 # QBCore Car Radio Script
 
-### My Discord Server - [DISCORD](https://discord.gg/diamond-roleplay)
+### My Discord Server - [Discord](https://discord.gg/diamond-roleplay)
 
 ### Download Xsound - [Xsound](https://github.com/Xogy/xsound)
 
